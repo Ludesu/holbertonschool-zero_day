@@ -1,1 +1,1 @@
-**For Holbertonschool's Git project**
+**For Holbertonschool's Git project. Now edited.**
